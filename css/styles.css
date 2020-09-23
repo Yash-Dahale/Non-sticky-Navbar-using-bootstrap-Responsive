@@ -1,0 +1,22 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: rgb(237, 250, 54)!important; 
+}
+.navbar-brand{
+    font-weight: bold;
+    font-size: 2em;
+}
+.navbar-nav{
+    background-color: rgb(138, 239, 247);
+}
+.nav-link{
+    color:black!important;
+}
+.row{
+    margin: 15px 10px 15px 10px;
+    background-color: rgb(253, 147, 183);
+}
